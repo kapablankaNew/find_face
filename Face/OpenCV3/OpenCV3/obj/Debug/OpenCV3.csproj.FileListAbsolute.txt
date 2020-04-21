@@ -1,0 +1,334 @@
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+D:\OpenCV\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+D:\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+D:\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+D:\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+D:\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+D:\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+D:\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+D:\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+D:\OpenCV\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\cvextern.dll
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\msvcp120.dll
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\msvcr120.dll
+D:\OpenCV\OpenCV3\OpenCV3\bin\Debug\opencv_ffmpeg300.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+D:\OpenCV\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+D:\OpenCV\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+D:\OpenCV\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+D:\OpenCV\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+D:\OpenCV\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+D:\OpenCV\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\cvextern.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\msvcp120.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\msvcr120.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\opencv_ffmpeg300.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+D:\OpenCV\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\cvextern.dll
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\msvcp120.dll
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\msvcr120.dll
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+C:\Users\Константин\Desktop\Face\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\cvextern.dll
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\msvcp120.dll
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\msvcr120.dll
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\opencv_ffmpeg300.dll
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+D:\Распознать\Face\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form2.resources
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\cvextern.dll
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\msvcp120.dll
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\msvcr120.dll
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+C:\Users\Константин\Desktop\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+D:\Face\OpenCV3\OpenCV3\bin\Debug\cvextern.dll
+D:\Face\OpenCV3\OpenCV3\bin\Debug\msvcp120.dll
+D:\Face\OpenCV3\OpenCV3\bin\Debug\msvcr120.dll
+D:\Face\OpenCV3\OpenCV3\bin\Debug\opencv_ffmpeg300.dll
+D:\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+D:\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+D:\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+D:\Face\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+D:\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+D:\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+D:\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+D:\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form2.resources
+D:\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+D:\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+D:\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+D:\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+D:\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+D:\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\cvextern.dll
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\msvcp120.dll
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\msvcr120.dll
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form2.resources
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+C:\Users\Константин\Desktop\Проекты\Управление роботом\Фотка + принятие решений\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\cvextern.dll
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\msvcp120.dll
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\msvcr120.dll
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form2.resources
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+C:\Users\Константин\Desktop\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\cvextern.dll
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\msvcp120.dll
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\msvcr120.dll
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\opencv_ffmpeg300.dll
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+D:\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+D:\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+D:\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form2.resources
+D:\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+D:\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+D:\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+D:\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+D:\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+D:\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\cvextern.dll
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\msvcp120.dll
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\msvcr120.dll
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\opencv_ffmpeg300.dll
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe.config
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.exe
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\OpenCV3.pdb
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\ZedGraph.dll
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Contrib.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Cuda.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.ML.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.OCR.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Shape.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Stitching.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.Superres.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.UI.GL.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.CV.VideoStab.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\bin\Debug\Emgu.Util.xml
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csprojAssemblyReference.cache
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form1.resources
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Form2.resources
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.Properties.Resources.resources
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.GenerateResource.cache
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CoreCompileInputs.cache
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.csproj.CopyComplete
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.exe
+H:\Проги\Software for Robot\Face\OpenCV3\OpenCV3\obj\Debug\OpenCV3.pdb
